@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "Airports",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "LOCATIONID": "DAB", "COUNTY": "VOLUSIA", "FULLNAME": "DAYTONA BEACH INTL", "PASSENGERS": 347701, "TSM_TAZ": 5890, "DMA": 4 }, "geometry": { "type": "Point", "coordinates": [ -81.058049409790826, 29.179909181312368 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "LOCATIONID": "FLL", "COUNTY": "BROWARD", "FULLNAME": "FORT LAUDERDALE\/HOLLYWOOD INTL", "PASSENGERS": 11785929, "TSM_TAZ": 1407, "DMA": 8 }, "geometry": { "type": "Point", "coordinates": [ -80.149690344888441, 26.071660926844825 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "LOCATIONID": "RSW", "COUNTY": "LEE", "FULLNAME": "SOUTHWEST FLORIDA INTL", "PASSENGERS": 4215766, "TSM_TAZ": 2185, "DMA": 7 }, "geometry": { "type": "Point", "coordinates": [ -81.755159824128228, 26.536162237289606 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "LOCATIONID": "GNV", "COUNTY": "ALACHUA", "FULLNAME": "GAINESVILLE RGNL", "PASSENGERS": 218699, "TSM_TAZ": 7747, "DMA": 2 }, "geometry": { "type": "Point", "coordinates": [ -82.271772850158683, 29.690047250072261 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "LOCATIONID": "JAX", "COUNTY": "DUVAL", "FULLNAME": "JACKSONVILLE INTL", "PASSENGERS": 2716631, "TSM_TAZ": 9640, "DMA": 3 }, "geometry": { "type": "Point", "coordinates": [ -81.687827288472775, 30.494047796222365 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "LOCATIONID": "EYW", "COUNTY": "MONROE", "FULLNAME": "KEY WEST INTL", "PASSENGERS": 392874, "TSM_TAZ": 5, "DMA": 8 }, "geometry": { "type": "Point", "coordinates": [ -81.759555218240877, 24.556105042725935 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "LOCATIONID": "MIA", "COUNTY": "DADE", "FULLNAME": "MIAMI INTL", "PASSENGERS": 9517123, "TSM_TAZ": 743, "DMA": 8 }, "geometry": { "type": "Point", "coordinates": [ -80.290107607243328, 25.795355939601301 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "LOCATIONID": "MCO", "COUNTY": "ORANGE", "FULLNAME": "ORLANDO INTL", "PASSENGERS": 17364395, "TSM_TAZ": 5699, "DMA": 5 }, "geometry": { "type": "Point", "coordinates": [ -81.308992760990819, 28.429381598457411 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "LOCATIONID": "SFB", "COUNTY": "SEMINOLE", "FULLNAME": "ORLANDO SANFORD INTL", "PASSENGERS": 1294624, "TSM_TAZ": 6563, "DMA": 5 }, "geometry": { "type": "Point", "coordinates": [ -81.234909754002942, 28.776964619220895 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "LOCATIONID": "ECP", "COUNTY": "BAY", "FULLNAME": "NORTHWEST FLORIDA BEACHES INTL", "PASSENGERS": 462323, "TSM_TAZ": 9246, "DMA": 1 }, "geometry": { "type": "Point", "coordinates": [ -85.795604147234002, 30.358241326553134 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "LOCATIONID": "MLB", "COUNTY": "BREVARD", "FULLNAME": "MELBOURNE INTL", "PASSENGERS": 222759, "TSM_TAZ": 5130, "DMA": 4 }, "geometry": { "type": "Point", "coordinates": [ -80.645250008520108, 28.102745949454185 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "LOCATIONID": "PNS", "COUNTY": "ESCAMBIA", "FULLNAME": "PENSACOLA INTL", "PASSENGERS": 850292, "TSM_TAZ": 9785, "DMA": 1 }, "geometry": { "type": "Point", "coordinates": [ -87.186606890068106, 30.473414961859746 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "LOCATIONID": "PGD", "COUNTY": "CHARLOTTE", "FULLNAME": "PUNTA GORDA", "PASSENGERS": 643825, "TSM_TAZ": 2937, "DMA": 7 }, "geometry": { "type": "Point", "coordinates": [ -81.990918615679533, 26.918932897869556 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "LOCATIONID": "PIE", "COUNTY": "PINELLAS", "FULLNAME": "ST PETE-CLEARWATER INTL", "PASSENGERS": 1016519, "TSM_TAZ": 4126, "DMA": 6 }, "geometry": { "type": "Point", "coordinates": [ -82.687537996042451, 27.909992414235901 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "LOCATIONID": "SRQ", "COUNTY": "SARASOTA", "FULLNAME": "SARASOTA\/BRADENTON INTL", "PASSENGERS": 564395, "TSM_TAZ": 3480, "DMA": 7 }, "geometry": { "type": "Point", "coordinates": [ -82.554381967176369, 27.395438863861489 ] } },
+{ "type": "Feature", "properties": { "fid": 16, "LOCATIONID": "TLH", "COUNTY": "LEON", "FULLNAME": "TALLAHASSEE RGNL", "PASSENGERS": 355451, "TSM_TAZ": 9302, "DMA": 2 }, "geometry": { "type": "Point", "coordinates": [ -84.350855582091327, 30.396742094676117 ] } },
+{ "type": "Feature", "properties": { "fid": 17, "LOCATIONID": "TPA", "COUNTY": "HILLSBOROUGH", "FULLNAME": "TAMPA INTL", "PASSENGERS": 9040010, "TSM_TAZ": 4596, "DMA": 6 }, "geometry": { "type": "Point", "coordinates": [ -82.533243488109591, 27.975465607818457 ] } },
+{ "type": "Feature", "properties": { "fid": 18, "LOCATIONID": "VRB", "COUNTY": "INDIAN RIVER", "FULLNAME": "VERO BEACH MUNI", "PASSENGERS": 9089, "TSM_TAZ": 3754, "DMA": 4 }, "geometry": { "type": "Point", "coordinates": [ -80.417937261108776, 27.655548882105371 ] } },
+{ "type": "Feature", "properties": { "fid": 19, "LOCATIONID": "PBI", "COUNTY": "PALM BEACH", "FULLNAME": "PALM BEACH INTL", "PASSENGERS": 3053733, "TSM_TAZ": 2596, "DMA": 8 }, "geometry": { "type": "Point", "coordinates": [ -80.095578257725393, 26.683160554125685 ] } }
+]
+}
